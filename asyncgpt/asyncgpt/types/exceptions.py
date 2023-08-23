@@ -1,0 +1,2 @@
+class AsyncGPTError(Exception):
+    pass
