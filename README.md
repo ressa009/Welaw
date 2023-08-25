@@ -45,6 +45,6 @@
 ![질문하기](https://github.com/ressa009/Welaw/assets/47082555/80f6ab78-c2bb-428a-b4b2-cfcff38b5273)
 ![명함OCR](https://github.com/ressa009/Welaw/assets/47082555/8efc876a-8c51-4671-9418-e3cc0caf5009)<br>
 ![법률상담-직접입력](https://github.com/ressa009/Welaw/assets/47082555/5203d59f-42be-4506-afa7-1f1183784840)
-![법률상담-pdf](https://github.com/ressa009/Welaw/assets/47082555/a6380ed4-fb7e-4dfc-afc7-528dcb5639f3)
+![KakaoTalk_20230826_053933947 (1)](https://github.com/ressa009/Welaw/assets/47082555/47e4f563-be67-493c-8082-7a6d1dea6970)
 
 
